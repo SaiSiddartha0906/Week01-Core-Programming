@@ -1,30 +1,72 @@
-# Week01-Core-Programming
+# Week 1: Java Basics
 
-This repository contains foundational Java programming exercises and examples, structured to support beginners in mastering core concepts.
+Welcome to the repository for Week 1 of our Java learning journey. This week focused on building a strong foundation in the fundamental concepts of Java programming.
 
-## 📁 Folder Structure
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [Day 1: Introduction to Java](#day-1-introduction-to-java)
+  - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
+  - [Day 3: Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops)
+  - [Day 4: Arrays](#day-4-arrays)
+  - [Day 5: Strings](#day-5-strings)
+  - [Day 6: Functions (Methods)](#day-6-functions-methods)
+- [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Next Steps](#next-steps)
 
-* `01 Java Programming Elements`: Introduction to basic Java syntax, variables, and data types.
-* `02 Control Flow`: Examples covering conditionals (`if`, `switch`) and loops (`for`, `while`, `do-while`).
-* `03 Java Arrays`: Working with single and multidimensional arrays.
-* `04 Java Methods`: Understanding method declarations, parameters, return types, and method overloading.
-* `05 Java String`: String manipulation techniques and common methods.
+## 🧭 Overview
+The first week was dedicated to understanding the core syntax and essential building blocks of the Java programming language. We covered how to write simple Java programs, handle different types of data, control the flow of execution, and work with fundamental data structures like arrays and strings, as well as modularizing code with functions (methods).
 
-## 🧑‍💻 Getting Started
+## 📌 Topics Covered
 
-To run the Java files:
+### Day 1: Introduction to Java
+- What is Java?
+- History and importance of Java
+- Setting up the Java Development Kit (JDK)
+- Writing and running the first Java program ("Hello, World!")
+- Understanding the basic structure of a Java program (classes, main method)
 
-1. Ensure Java is installed on your system.
-2. Navigate to the desired folder.
-3. Compile the Java file:
-   
-   javac FileName.java
+### Day 2: Variables, Data Types, and Operators
+- Declaring and initializing variables
+- Primitive data types (int, double, boolean, char, etc.)
+- Non-primitive data types (String - introduced briefly)
+- Understanding Java operators (arithmetic, relational, logical, assignment)
+- Type casting
 
-4. Run the compiled class:
+### Day 3: Control Flow (Conditional Statements and Loops)
+- if, else if, and else statements
+- switch statement
+- for loops
+- while loops
+- do-while loops
+- break and continue statements
 
-java FileName
+### Day 4: Arrays
+- What are arrays?
+- Declaring and initializing arrays
+- Accessing array elements
+- Iterating through arrays
+- Multi-dimensional arrays
 
-## ✅ Prerequisites
+### Day 5: Strings
+- Introduction to the String class
+- Creating String objects
+- Common String methods (e.g., `length()`, `charAt()`, `substring()`, `equals()`, `equalsIgnoreCase()`)
+- String concatenation
+- String immutability
 
-* Java Development Kit (JDK) 8 or higher
-* A code editor like VS Code, IntelliJ IDEA, or Eclipse
+### Day 6: Functions (Methods)
+- What are functions/methods?
+- Defining and calling methods
+- Method parameters and return types
+- Method overloading
+- Understanding `static` and `void` keywords
+
+## 🛠️ Prerequisites
+- A computer with a supported operating system (Windows, macOS, Linux).
+- Java Development Kit (JDK) installed.
+- A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse.
+
+## 📂 How to Use This Repository
+This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders. Feel free to explore the code, run it, and modify it to deepen your understanding.
