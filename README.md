@@ -12,8 +12,6 @@ Welcome to the repository for Week 1 of our Java learning journey. This week foc
   - [Day 5: Strings](#day-5-strings)
   - [Day 6: Functions (Methods)](#day-6-functions-methods)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ## 🧭 Overview
 The first week was dedicated to understanding the core syntax and essential building blocks of the Java programming language. We covered how to write simple Java programs, handle different types of data, control the flow of execution, and work with fundamental data structures like arrays and strings, as well as modularizing code with functions (methods).
